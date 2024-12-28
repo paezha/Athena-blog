@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Athena!\nI am currently a first year Masters student studying Medical Sciences at McMaster University. The courses I am taking this year are GEOG 712: Reproducibility in Research and MED SCI 771: Research Methodology in Basic Health Science. I am currently conducting research the lab of Dr. Katherine Morrison speicalizing in the pediatric obesity. Our research is related to energy expenditure and adaptive thermogenesis. Adaptive thermogenesis is the body’s metabolic adaptation to weight loss where an individual’s resting energy expenditure decreases as one loses more weight. This can cause cycles of weight regain, increasing risk for type 2 diabetes and cardiovascular disease. Our research measured energy expenditure using whole room calorimetry in our energy lab in HSC. This brand new state of the art room allows us to measure oxygen and carbon dioxide levels and using a validated equation, we can then use this to derive energy expenditure.\nAside from my education, I love to hangout with my friends and spend time with my family. I love to watch movies and some of my favourites include watching the Marvel franchise."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Athena’s Adventures",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 28, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 25, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]

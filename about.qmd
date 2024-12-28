@@ -1,0 +1,23 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.online/@paezha
+#    - icon: orcid
+#      text: orcid
+#      href: https://orcid.org/0000-0001-6912-9919
+    - icon: github
+      text: Github
+      href: https://github.com/athenafm
+
+---
+
+My name is Athena!
+
+I am currently a first year Masters student studying Medical Sciences at McMaster University. The courses I am taking this year are GEOG 712: Reproducibility in Research and MED SCI 771: Research Methodology in Basic Health Science. I am currently conducting research the lab of Dr. Katherine Morrison speicalizing in the pediatric obesity. Our research is related to energy expenditure and adaptive thermogenesis. Adaptive thermogenesis is the body's metabolic adaptation to weight loss where an individual's resting energy expenditure decreases as one loses more weight. This can cause cycles of weight regain, increasing risk for type 2 diabetes and cardiovascular disease. Our research measured energy expenditure using whole room calorimetry in our energy lab in HSC. This brand new state of the art room allows us to measure oxygen and carbon dioxide levels and using a validated equation, we can then use this to derive energy expenditure.
+
+Aside from my education, I love to hangout with my friends and spend time with my family. I love to watch movies and some of my favourites include watching the Marvel franchise.

@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Athena’s Adventures",
+    "section": "",
+    "text": "Christmas Dinner 2024\n\n\n\n\n\n\nEvents\n\n\n\n\n\n\n\n\n\nDec 28, 2024\n\n\nAthena Flores Miranda\n\n\n\n\n\n\n\n\n\n\n\n\nMy Academic Progress\n\n\n\n\n\n\ngraduate-school\n\n\n\n\n\n\n\n\n\nNov 28, 2024\n\n\nAthena Flores Miranda\n\n\n\n\n\n\n\n\n\n\n\n\nHalifax Travel Diary\n\n\n\n\n\n\ntravel\n\n\n\n\n\n\n\n\n\nOct 15, 2024\n\n\nAthena Flores Miranda\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Athena!\nI am currently a first year Masters student studying Medical Sciences at McMaster University. The courses I am taking this year are GEOG 712: Reproducibility in Research and MED SCI 771: Research Methodology in Basic Health Science. I am currently conducting research the lab of Dr. Katherine Morrison speicalizing in the pediatric obesity. Our research is related to energy expenditure and adaptive thermogenesis. Adaptive thermogenesis is the body’s metabolic adaptation to weight loss where an individual’s resting energy expenditure decreases as one loses more weight. This can cause cycles of weight regain, increasing risk for type 2 diabetes and cardiovascular disease. Our research measured energy expenditure using whole room calorimetry in our energy lab in HSC. This brand new state of the art room allows us to measure oxygen and carbon dioxide levels and using a validated equation, we can then use this to derive energy expenditure.\nAside from my education, I love to hangout with my friends and spend time with my family. I love to watch movies and some of my favourites include watching the Marvel franchise."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html",
+    "href": "posts/2024-12-25-christmas-dinner/index.html",
+    "title": "Christmas Dinner 2024",
+    "section": "",
+    "text": "During the last week of school, my roommates and I decided to make a recipe we had never tried previously. Our menu for the night was Hickory roasted ham, Mashed potaotes, brussel sprouts and cinnamon buns! Below are the recipies for each of the meals."
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#hickory-roasted-ham",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#hickory-roasted-ham",
+    "title": "Christmas Dinner 2024",
+    "section": "Hickory roasted ham",
+    "text": "Hickory roasted ham\n\nIngredients\n\nFor the Ham:\n\n1 (8-10 lbs) bone-in ham\n1 cup hickory wood chips (soaked in water for 30 minutes)\n2 tbsp olive oil\nSalt and pepper to taste\n\nFor the Honey Glaze:\n\n1 cup honey\n1/2 cup brown sugar\n1/4 cup Dijon mustard\n1/4 cup apple cider vinegar\n2 tbsp soy sauce\n1 tsp ground cinnamon\n1 tsp ground cloves\n1/2 tsp ground ginger\n1/2 tsp ground black pepper"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#instructions",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#instructions",
+    "title": "Christmas Dinner 2024",
+    "section": "Instructions",
+    "text": "Instructions\n\n1. Preheat the Oven\nPreheat your oven to 325°F (163°C).\n\n\n2. Prepare the Ham\n\nPat the ham dry with paper towels.\nRub the ham with olive oil, salt, and pepper to season the surface.\n\n\n\n3. Prepare the Honey Glaze\n\nIn a saucepan over medium heat, combine the honey, brown sugar, Dijon mustard, apple cider vinegar, soy sauce, cinnamon, cloves, ginger, and black pepper.\nStir the ingredients together and bring to a simmer.\nLet the glaze simmer for 5-7 minutes, stirring occasionally, until it thickens slightly.\n\n\n\n4. Smoke the Ham\n\nPlace the soaked hickory wood chips in a smoker box or directly on the grill.\nPut the ham in the smoker or on the grill over indirect heat. Smoke for 2-3 hours, basting occasionally with the honey glaze.\n\n\n\n5. Roast the Ham\n\nOnce the ham has been smoked, transfer it to the oven. Roast for an additional 1-1.5 hours, basting with the honey glaze every 30 minutes, until the internal temperature reaches 140°F (60°C).\n\n\n\n6. Rest and Serve\n\nRemove the ham from the oven and let it rest for 15 minutes before carving.\nServe with your favorite sides and enjoy!"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#tips",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#tips",
+    "title": "Christmas Dinner 2024",
+    "section": "Tips:",
+    "text": "Tips:\n\nFor a crispy outer layer, increase the temperature to 400°F during the last 10 minutes of roasting.\nLeftovers can be sliced and used for sandwiches or added to soups."
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#mashed-potatoes-recipe",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#mashed-potatoes-recipe",
+    "title": "Christmas Dinner 2024",
+    "section": "Mashed Potatoes Recipe",
+    "text": "Mashed Potatoes Recipe\n\nIngredients\n\n2 pounds russet potatoes (about 4 large potatoes)\n1/2 cup unsalted butter\n1 cup whole milk (or heavy cream for extra richness)\nSalt, to taste\nFreshly ground black pepper, to taste\n2 cloves garlic (optional)\nChopped fresh parsley (optional, for garnish)"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#instructions-1",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#instructions-1",
+    "title": "Christmas Dinner 2024",
+    "section": "Instructions",
+    "text": "Instructions\n\n1. Prepare the Potatoes\n\nPeel the potatoes and cut them into 1-inch cubes for even cooking.\nIf you like garlic mashed potatoes, you can add the garlic cloves, peeled, to the pot while boiling the potatoes.\n\n\n\n2. Boil the Potatoes\n\nPlace the potatoes (and garlic, if using) in a large pot and cover with cold water.\nAdd a pinch of salt and bring to a boil over high heat.\nReduce the heat to medium and cook for 12-15 minutes, or until the potatoes are fork-tender.\n\n\n\n3. Drain the Potatoes\n\nOnce the potatoes are cooked, drain them in a colander and return them to the pot.\nIf you added garlic, remove it from the pot.\n\n\n\n4. Mash the Potatoes\n\nUse a potato masher or a potato ricer to mash the potatoes to your desired consistency.\nFor ultra-smooth potatoes, you can use a ricer, which will give them a silky texture.\n\n\n\n5. Add Butter and Milk\n\nAdd the butter to the mashed potatoes and stir until fully melted and incorporated.\nGradually pour in the milk (or heavy cream), stirring until the potatoes are creamy and smooth.\nAdd salt and freshly ground black pepper to taste.\n\n\n\n6. Serve\n\nTransfer the mashed potatoes to a serving dish and garnish with chopped parsley, if desired.\nServe warm and enjoy!"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#brussel-sprouts",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#brussel-sprouts",
+    "title": "Christmas Dinner 2024",
+    "section": "Brussel Sprouts",
+    "text": "Brussel Sprouts\n\nIngredients\n\n1 pound Brussels sprouts, trimmed and halved\n2 tbsp olive oil\n2 tbsp maple syrup\n1 tbsp balsamic vinegar\nSalt, to taste\nFreshly ground black pepper, to taste\n1/4 tsp garlic powder (optional)\n1/4 tsp red pepper flakes (optional, for heat)\nChopped fresh parsley (optional, for garnish)\nBacon (optional)"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#instructions-2",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#instructions-2",
+    "title": "Christmas Dinner 2024",
+    "section": "Instructions",
+    "text": "Instructions\n\n1. Preheat the Oven\nPreheat your oven to 400°F (200°C).\n\n\n2. Prepare the Brussels Sprouts\n\nTrim the ends of the Brussels sprouts and remove any yellow or damaged outer leaves.\nCut them in half lengthwise to ensure even cooking.\n\n\n\n3. Toss with Olive Oil and Seasonings\n\nIn a large bowl, toss the halved Brussels sprouts with olive oil, salt, pepper, and optional garlic powder and red pepper flakes.\nMake sure the Brussels sprouts are evenly coated with oil and seasonings.\n\n\n\n4. Maple Syrup Glaze\n\nDrizzle the maple syrup and balsamic vinegar over the Brussels sprouts, then toss again to coat evenly.\n\n\n\n5. Roast the Brussels Sprouts\n\nSpread the Brussels sprouts in a single layer on a baking sheet, cut side down for crispiness.\nRoast in the preheated oven for 20-25 minutes, or until the Brussels sprouts are golden brown and crispy on the edges. Stir halfway through for even roasting.\n\n\n\n6. Serve\n\nRemove from the oven and garnish with chopped fresh parsley, if desired.\nServe warm and enjoy!"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#cinnamon-buns-recipe",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#cinnamon-buns-recipe",
+    "title": "Christmas Dinner 2024",
+    "section": "Cinnamon Buns Recipe",
+    "text": "Cinnamon Buns Recipe\n\nIngredients\n\n\nFor the Dough:\n\n1 cup warm milk (110°F/45°C)\n2 1/4 tsp active dry yeast (1 packet)\n1/2 cup granulated sugar\n1/2 cup unsalted butter, melted\n1/2 tsp salt\n2 eggs\n4 cups all-purpose flour\n1 tsp vanilla extract\n\n\n\nFor the Cinnamon Filling:\n\n1/2 cup unsalted butter, softened\n3/4 cup packed brown sugar\n2 tbsp ground cinnamon\n1/4 tsp salt\n\n\n\nFor the Cream Cheese Glaze:\n\n4 oz cream cheese, softened\n1/4 cup unsalted butter, softened\n1 1/2 cups powdered sugar\n1 tsp vanilla extract\n1-2 tbsp milk (for consistency)"
+  },
+  {
+    "objectID": "posts/2024-12-25-christmas-dinner/index.html#instructions-3",
+    "href": "posts/2024-12-25-christmas-dinner/index.html#instructions-3",
+    "title": "Christmas Dinner 2024",
+    "section": "Instructions",
+    "text": "Instructions\n\n1. Activate the Yeast\n\nIn a small bowl, combine the warm milk and granulated sugar.\nSprinkle the yeast over the top and let it sit for 5-10 minutes until it becomes frothy.\n\n\n\n2. Make the Dough\n\nIn a large bowl, combine the melted butter, salt, eggs, and vanilla extract.\nAdd the yeast mixture and mix well.\nGradually add the flour, 1 cup at a time, stirring to combine until a soft dough forms.\nKnead the dough for about 5-7 minutes until smooth and elastic (you can do this by hand or with a stand mixer).\nForm the dough into a ball, cover with a clean towel, and let it rise in a warm place for 1-2 hours, or until doubled in size.\n\n\n\n3. Make the Cinnamon Filling\n\nIn a small bowl, combine the softened butter, brown sugar, cinnamon, and salt to create the filling.\n\n\n\n4. Assemble the Cinnamon Buns\n\nPreheat your oven to 350°F (175°C).\nOnce the dough has risen, punch it down and roll it out into a rectangle (about 16x12"
+  },
+  {
+    "objectID": "posts/2024-10-15-halifax-travel-diary/index.html",
+    "href": "posts/2024-10-15-halifax-travel-diary/index.html",
+    "title": "Halifax Travel Diary",
+    "section": "",
+    "text": "Last year, I took a trip to Halifax, Nova Scotia with my Aunt and Uncle. It was one of my most favourite experiences as I got a chance to live in the Maritime provinces for a short amount of time. When I was younger my family and I often traveled to various places around Canada including the east coast and I absolutely loved the seaside. Below I will outline some the highlights of my trip and some recommendations for future travelers!"
+  },
+  {
+    "objectID": "posts/2024-10-15-halifax-travel-diary/index.html#peggys-cove",
+    "href": "posts/2024-10-15-halifax-travel-diary/index.html#peggys-cove",
+    "title": "Halifax Travel Diary",
+    "section": "Peggy’s Cove",
+    "text": "Peggy’s Cove\nOne of our first stops was seeing Peggy’s Cove. This area is not too fat from city as it takes around 40 minutes. We drove by car to get to our destination which was very scenic. I highly recommend taking a road trip around Canada as there is so much to see including wildlife, landscapes etc. Peggy’s Cove is one of Nova Scotia’s prime tourist attractions. This fishing village is along the South shore and was built in 1915. You can spend the day looking at the ocean and appreciating the serenity of the atmosphere. Sometimes, if you are lucky, there are muscicians that will play music and will allow you to take pictures with them! This area has been designated as a preservation region and remains a fishing community. I would highly recommend going to Sou’Western Gifts and Restaurant as the fish and chips were absolutely divine! Seafood is very prominent in Halifax, especially lobster, so if you get the chance I would try at least one seafood related dish."
+  },
+  {
+    "objectID": "posts/2024-10-15-halifax-travel-diary/index.html#point-pleasant-park",
+    "href": "posts/2024-10-15-halifax-travel-diary/index.html#point-pleasant-park",
+    "title": "Halifax Travel Diary",
+    "section": "Point Pleasant Park",
+    "text": "Point Pleasant Park\nAnother place that made it to my highlights was Point Pleasant Park located in the south end of the Halifax peninsula. This spot is great for hikes during the fall and summer time. This area is also pet friendly and filled with dogs running around. We walked through the entie park and managed to catch glimpses of the ocean, and rich forestry. It was a great break from being inside all day and we managed to even catch the sunrise that day. I would highly recommend if you enjoy being out in nature!"
+  },
+  {
+    "objectID": "posts/2024-10-15-halifax-travel-diary/index.html#halifax-harbour",
+    "href": "posts/2024-10-15-halifax-travel-diary/index.html#halifax-harbour",
+    "title": "Halifax Travel Diary",
+    "section": "Halifax Harbour",
+    "text": "Halifax Harbour\nThe Halifax harbour is one of the most popular places downtown. Here, you can find several places to walk, shop and eat along the boardwalk. Sometimes, you can catch various individuals performing circus acts, music and plays. Along the boardwalk, there are several info boards that have a written documentation of historic events that happened in areas closeby. For those who are history junkies, I would definitely suggest reading those signs as they provide context and cultural background to some of the sites. We managed to visit one of the restaurants, Bar Sofia, which was a Mexican establishment. I had the chance to enjoy some fish tacos which were absolutely amazing!"
+  },
+  {
+    "objectID": "posts/2024-10-15-halifax-travel-diary/index.html#overall-rating",
+    "href": "posts/2024-10-15-halifax-travel-diary/index.html#overall-rating",
+    "title": "Halifax Travel Diary",
+    "section": "Overall Rating",
+    "text": "Overall Rating\nI would rate my trip to Halifax an 8.5/10! Again, I would recommend this destination for those who enjoy being out in nature and appreciate the seaside. There are many spots to travel in Halifax, however these are some of my favourites."
+  },
+  {
+    "objectID": "posts/2024-11-28-academic-progress/index.html",
+    "href": "posts/2024-11-28-academic-progress/index.html",
+    "title": "My Academic Progress",
+    "section": "",
+    "text": "This month, I learned about muscle work efficiency. This concept will be an important part of my thesis and I wanted to explain the concept and provide a package for those who need to calculate work efficiency."
+  },
+  {
+    "objectID": "posts/2024-11-28-academic-progress/index.html#what-is-muscle-work-efficiency",
+    "href": "posts/2024-11-28-academic-progress/index.html#what-is-muscle-work-efficiency",
+    "title": "My Academic Progress",
+    "section": "What is muscle work efficiency?",
+    "text": "What is muscle work efficiency?\nAs stated before, physical activity energy expenditure is an important component of total daily energy expenditure. Thus, it is important to understand how physical activity energy changes in adolescents with obesity. Muscle work efficiency refers to the ability of skeletal muscles to convert energy into mechanical work with minimal energy loss. It is a measure of how effectively muscles use energy during phyiscal activity, particularly during contraction. In simpler terms, muscle work efficiency is the ratio of useful work produced by the muscle compared to the energy consumed in the process.\nIt is thought that improvements in muscle work efficiency that occur during weight are potential contributors to adaptive thermogensis. In other words, as muscles get more efficient in burning calories, they burn less calories with the same amount of workload. It is important to understand this concept in order to develop tailored strategies to mitigating adaptive thermogenesis\nPackage for calculating work efficiency\nPackage name: WorkEfficiency\nObjective: The goal of WorkEfficiency is to create a simple and easy way to calculate the total work efficiency during a Metabolic visit at McMaster University. This package will take values from the Total Energy Expended and Resting Energy Expenditure to give a value that corresponds with work efficiency. Both of these values can be obtained experimentally through indirect calorimetry."
+  },
+  {
+    "objectID": "posts/2024-11-28-academic-progress/index.html#installation",
+    "href": "posts/2024-11-28-academic-progress/index.html#installation",
+    "title": "My Academic Progress",
+    "section": "Installation",
+    "text": "Installation\nInstall the package:\n# Install if required\nif (!require(\"devtools\")) install.packages(\"devtools\")\nif (!require(\"usethis\")) install.packages(\"usethis\")\nlibrary(devtools)\nlibrary(usethis)\ninstall_github(\"athenafm/WorkEfficiency\")"
+  },
+  {
+    "objectID": "posts/2024-11-28-academic-progress/index.html#example",
+    "href": "posts/2024-11-28-academic-progress/index.html#example",
+    "title": "My Academic Progress",
+    "section": "Example",
+    "text": "Example\nThis is a basic example which shows you how to solve a common problem:\nlibrary(WorkEfficiency)\ncalculate_work_efficiency(1500,2000)"
+  }
+]

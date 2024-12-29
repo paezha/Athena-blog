@@ -1,8 +1,13 @@
 project:
   type: website
+  output-dir: docs
+
+# Check out https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/#add-content-in-your-blog for some cool ideas about how to configure and add content to blog
 
 website:
   title: "Athena's Adventures"
+  page-footer:
+    left: "Blog made [Quarto](https://quarto.org/), by Athena Flores Miranda. License: [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)."
   navbar:
     right:
       - about.qmd
@@ -15,5 +20,10 @@ format:
     theme: cosmo
     css: styles.css
 
+#comments:
+#  giscus:
+#    repo: paezha/ungrammetical-correctors-society
 
+execute:
+  freeze: true
 

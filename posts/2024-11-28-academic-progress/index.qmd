@@ -1,0 +1,48 @@
+---
+title: "My Academic Progress"
+author: "Athena Flores Miranda"
+date: "2024-11-28"
+categories: [graduate-school]
+tags: [academic-life, research]
+#image: "image.jpg"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+This month, I learned about muscle work efficiency. This concept will be an important part of my thesis and I wanted to explain the concept and provide a package for those who need to calculate work efficiency.
+
+## What is muscle work efficiency?
+
+As stated before, physical activity energy expenditure is an important component of total daily energy expenditure. Thus, it is important to understand how physical activity energy changes in adolescents with obesity. Muscle work efficiency refers to the ability of skeletal muscles to convert energy into mechanical work with minimal energy loss. It is a measure of how effectively muscles use energy during phyiscal activity, particularly during contraction. In simpler terms, muscle work efficiency is the ratio of useful work produced by the muscle compared to the energy consumed in the process.
+
+It is thought that improvements in muscle work efficiency that occur during weight are potential contributors to adaptive thermogensis. In other words, as muscles get more efficient in burning calories, they burn less calories with the same amount of workload. It is important to understand this concept in order to develop tailored strategies to mitigating adaptive thermogenesis
+
+Package for calculating work efficiency
+
+Package name: WorkEfficiency
+
+Objective: The goal of WorkEfficiency is to create a simple and easy way to calculate the total work efficiency during a Metabolic visit at McMaster University. This package will take values from the Total Energy Expended and Resting Energy Expenditure to give a value that corresponds with work efficiency. Both of these values can be obtained experimentally through indirect calorimetry.
+
+## Installation
+
+Install the package:
+```r
+# Install if required
+if (!require("devtools")) install.packages("devtools")
+if (!require("usethis")) install.packages("usethis")
+library(devtools)
+library(usethis)
+install_github("athenafm/WorkEfficiency")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```r
+library(WorkEfficiency)
+calculate_work_efficiency(1500,2000)
+```
+
